@@ -410,6 +410,14 @@ deviceId: <device-id>
 
 ## Example Use Cases
 
+After you have connected your device to IoT Hub, you can explore additional scenarios that use other Azure tools and services. Below are 7 different example use cases:
+<ul style="list-style-type:circle">
+  <li><a href="https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-explorer-cloud-device-messaging">Use iothub-explorer to send and receive messages between your device and IoT Hub</a></li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+
 *We are in need of example use cases for this integration. Please help us
 improve this tutorial by <a href="{{edit-link branch path.href path.name}}"
 target="_blank">contributing to this page</a>. We will shower you with
